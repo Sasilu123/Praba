@@ -7,25 +7,25 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "94761643978",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~wr1wyZaI#J9f-2nmDQVr97tiZY6xDeN8INgerlygV8mNkyF_ZWA4",
       "required": false
     },  
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "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",
       "required": true
     }   
 },
 
      "buildpacks": [
         {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+            "url": "mongodb+srv://xanori6184:h1Dlo4DRA2RW6cEf@pramo.ofmrxcq.mongodb.net/"
         }
      ],
   "stack": "heroku-24"
